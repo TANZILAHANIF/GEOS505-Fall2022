@@ -14,4 +14,5 @@
 | A | Achievable |
 | R | Relevant |
 | T | Time-bound |
+|-|-|
 
