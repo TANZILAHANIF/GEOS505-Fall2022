@@ -2,5 +2,5 @@
 
 ## Tanzila Hanif
 
-Email: [tanzilahanif@boisestate.edu](tanzilahanif@boisestate.edu)
+Email: [tanzilahanif@boisestate.edu](mailto:tanzilahanif@boisestate.edu)
 
